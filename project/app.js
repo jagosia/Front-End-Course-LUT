@@ -1,3 +1,10 @@
+const hamburger = document.getElementById('hamburger');
+const mainMenu = document.getElementById('mainMenu');
+
+hamburger.addEventListener('click', () => {
+  mainMenu.classList.toggle('show');
+});
+
 const showMoreBtn = document.getElementById('showMoreBtn');
 const extraCards = document.querySelectorAll('.extra-card');
 
