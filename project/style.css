@@ -45,6 +45,7 @@ body {
 .navbar .main-menu ul {
     display: flex;
     list-style: none;
+    align-items: center;
 }
 
 .navbar ul li a {

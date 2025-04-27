@@ -1,4 +1,3 @@
-
 const showMoreBtn = document.getElementById('showMoreBtn');
 const extraCards = document.querySelectorAll('.extra-card');
 
