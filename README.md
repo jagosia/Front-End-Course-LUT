@@ -18,3 +18,8 @@ https://jagosia.github.io/Front-End-Course-LUT/project/index.html
   - Click the **"Show More"** button to reveal additional images  
 - **FAQ section** with an interactive accordion  
 - **Footer** with a newsletter form and useful links
+
+# Other Files
+
+- Learning diary can be found in the file learning_diary.pdf
+- Video of website usage can be found in the file PixelPretty_video.mp4
